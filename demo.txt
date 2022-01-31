@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello to update	d
+=======
+welcome to github 
+>>>>>>> GitWork
